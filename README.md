@@ -1,2 +1,0 @@
-# LimpNug
-Radio broadcast emulator
